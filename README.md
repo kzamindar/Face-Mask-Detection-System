@@ -1,1 +1,3 @@
 # Face-Mask-Detection-System
+This is a machine learning based project which works on Python, Keras and OpenCV. It can identify faces which are without mask in public and can be used at all public places. It uses OpenCV, a Computer Vision library which is useful in detecting faces and reading facial signatures.
+Amidst this pandemic, a lot of people have lost their lives and since a lot of people still do not understand the necessity of wearing a mask, this Face Mask Detection System can be of real help in order to control the further spread of this virus by spreading awareness towards wearing masks and protecting oneself. 
